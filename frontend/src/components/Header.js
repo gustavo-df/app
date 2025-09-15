@@ -18,7 +18,7 @@ const Header = () => {
         <div className="flex items-center justify-between w-full">
           <div className="flex items-center">
             <img 
-              src="https://customer-assets.emergentagent.com/job_ai-chat-fablab/artifacts/8kz3kxvx_Emblema%20Vibrante%20do%20FABLAB%20AI.png" 
+              src="https://i.postimg.cc/s2QCMwTt/Emblema-Vibrante-do-FABLAB-AI.png" 
               alt="FabLabAI Logo" 
               className="h-8 w-auto"
             />
