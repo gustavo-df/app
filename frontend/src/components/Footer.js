@@ -47,14 +47,6 @@ const Footer = () => {
                 <MessageCircle size={16} />
                 (61) 9164-7524
               </a>
-              <div className="flex items-center gap-3 body-small text-gray-300">
-                <Mail size={16} />
-                contato@fablab.com.br
-              </div>
-              <div className="flex items-center gap-3 body-small text-gray-300">
-                <MapPin size={16} />
-                Brasília, DF - Brasil
-              </div>
             </div>
           </div>
         </div>
