@@ -64,10 +64,11 @@ const FeaturesSection = () => {
         </div>
 
         <div className="bg-gradient-to-r from-blue-50 to-purple-50 rounded-2xl p-8 text-center">
-          <h3 className="heading-2 mb-4">Implementação Simples</h3>
+          <h3 className="heading-2 mb-4">Implementação Profissional</h3>
           <p className="body-large max-w-2xl mx-auto mb-8">
             Nossa equipe cuida de toda a configuração e integração. 
-            Em poucos dias, seu assistente estará funcionando perfeitamente.
+            Investimento entre R$ 400 a R$ 2.000 conforme complexidade, 
+            e mensalidade a partir de R$ 60.
           </p>
           
           <div className="grid md:grid-cols-3 gap-6 text-left">
