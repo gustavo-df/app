@@ -115,7 +115,7 @@ const Header = () => {
                 Contato
               </button>
               <a 
-                href="https://wa.me/5561916475247"
+                href="https://wa.me/556191647524"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-primary w-full text-center"
