@@ -1,5 +1,5 @@
 import React from "react";
-import { Store, Heart, Stethoscope, Scissors } from "lucide-react";
+import { Store, Heart, Stethoscope, Scissors, MessageCircle } from "lucide-react";
 
 const CatalogSection = () => {
   const assistants = [
