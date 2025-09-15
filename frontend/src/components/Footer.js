@@ -56,7 +56,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="body-small text-gray-400">
-            © 2025 FabLab. Todos os direitos reservados.
+            © 2025 FabLabAI. Todos os direitos reservados.
           </p>
           <div className="flex gap-6 mt-4 md:mt-0">
             <button className="body-small text-gray-400 hover:text-white transition-colors">
