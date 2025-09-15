@@ -46,6 +46,12 @@ const Header = () => {
               Catálogo
             </button>
             <button 
+              onClick={() => scrollToSection('precos')}
+              className="body-medium hover:text-gray-600 transition-colors"
+            >
+              Preços
+            </button>
+            <button 
               onClick={() => scrollToSection('recursos')}
               className="body-medium hover:text-gray-600 transition-colors"
             >
