@@ -23,7 +23,7 @@ const HeroSection = () => {
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <a 
-            href="https://wa.me/5561916475247"
+            href="https://wa.me/556191647524"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary flex items-center gap-2"
