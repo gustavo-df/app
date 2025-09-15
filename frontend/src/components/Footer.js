@@ -30,7 +30,9 @@ const Footer = () => {
               <li><button className="body-small text-gray-300 hover:text-white transition-colors">Assistente para Clínicas</button></li>
               <li><button className="body-small text-gray-300 hover:text-white transition-colors">Assistente para Veterinárias</button></li>
               <li><button className="body-small text-gray-300 hover:text-white transition-colors">Assistente para Barbearias</button></li>
-              <li><button className="body-small text-gray-300 hover:text-white transition-colors">Soluções Personalizadas</button></li>
+              <li><button className="body-small text-gray-300 hover:text-white transition-colors">Assistente Personalizado</button></li>
+              <li><button className="body-small text-gray-300 hover:text-white transition-colors">Implementação</button></li>
+              <li><button className="body-small text-gray-300 hover:text-white transition-colors">Suporte Técnico</button></li>
             </ul>
           </div>
 
