@@ -9,12 +9,12 @@ const Footer = () => {
           {/* Logo and Description */}
           <div className="md:col-span-2">
             <div className="flex items-center mb-4">
-              <img 
-                src="https://customer-assets.emergentagent.com/job_ab28db60-7d14-48e6-8510-0858b168cd68/artifacts/rupubmui_Logo%20Moderno%20FabLab%20em%20Cores%20Prim%C3%A1rias.png" 
-                alt="FabLab Logo" 
+            <img 
+                src="https://customer-assets.emergentagent.com/job_ai-chat-fablab/artifacts/8kz3kxvx_Emblema%20Vibrante%20do%20FABLAB%20AI.png" 
+                alt="FabLabAI Logo" 
                 className="h-8 w-auto"
               />
-              <span className="ml-3 heading-3 font-mono text-white">FabLab</span>
+              <span className="ml-3 heading-3 font-mono text-white">FabLabAI</span>
             </div>
             <p className="body-medium text-gray-300 max-w-md">
               Transformamos o atendimento ao cliente com assistentes virtuais inteligentes 
