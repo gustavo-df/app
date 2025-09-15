@@ -40,7 +40,7 @@ const CTASection = () => {
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
           <a 
-            href="https://wa.me/556191647524?text=Olá! Gostaria de experimentar o assistente virtual da FabLab para meu negócio."
+            href="https://wa.me/556191647524?text=Olá! Gostaria de experimentar o assistente virtual da FabLabAI para meu negócio."
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary flex items-center gap-2 text-lg px-8 py-4"
